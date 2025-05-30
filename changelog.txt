@@ -1,0 +1,4 @@
+5/30/25:
+
+- Add README description
+- Create HTML boilerplate and link script.js and style.css sheets
